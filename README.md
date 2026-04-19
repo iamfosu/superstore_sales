@@ -94,7 +94,7 @@ The goal was to answer a critical business question: *Which segments and product
 **Data Science & Machine Learning Enthusiast**
 
 - **LinkedIn:** [Tarakuzzaman Faysal](https://www.linkedin.com/in/tfaysal/)
-- **GitHub:** [@tarakuzzaman-faysal](https://github.com/tarakuzzaman-faysal)
+- **GitHub:** [@tarakuzzaman-faysal](https://github.com/iamfosu)
 
 ---
 ⭐ *If you find this project useful, consider giving it a star on GitHub!*
