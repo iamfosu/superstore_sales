@@ -61,11 +61,14 @@ The goal was to answer a critical business question: *Which segments and product
 
 ## 🖼️ Dashboard Preview
 
-![Executive Dashboard](image_9458c9.jpg)
-*Figure 1: Executive Overview and Sales Trends*
+### 🔹 Executive Overview and Sales Trends
+![Executive Dashboard](./sales_dashboard.png)
 
-![Regional Analysis](image_945920.png)
-*Figure 2: Regional and State-Level Profitability Mapping*
+### 🔹 Regional and State-Level Profitability Mapping
+![Regional Analysis](./Region%20&%20state%20dashboard.png)
+
+### 🔹 Category & Sub-Category Analysis
+![Category Analysis](./Category%20&%20sub-category%20analysis.png)
 
 ---
 
